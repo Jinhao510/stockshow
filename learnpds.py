@@ -4,9 +4,7 @@ Created on Wed Apr 17 10:19:53 2019
 
 updata   0417 to Udemy learn pandas
 """
-import numpy as np
-import pandas as pd
-from pandas import Series,DataFrame
+ 
 #import webbrowser
 
 
